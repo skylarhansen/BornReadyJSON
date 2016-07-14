@@ -1,0 +1,99 @@
+
+////////////// CORRECT JSON FORMAT //////////////
+{
+   "born-ready" : {
+      "rooms" : [
+         {
+            "name" : "Laundry Room",
+            "image" : "laundryRoom",
+            "tasks" : [
+               {
+                  "text" : "Secure laundry room door with door locks.",
+                  "section" : "Entryway",
+               }
+               {
+                  "text" : "Secure drawers or cabinets that contain hazardous products with locks."
+                  "section" : "Storage"
+               }
+               {
+                  "text" : "Activate child lock feature on washer's control panel."
+                  "section" : "Washer & Dryer"
+                  "tips" : [
+                     {
+                        "text" : "This prevents the door from opening mid-cycle."
+                     }
+                  ]
+               } 
+               {
+                  "text" : "Limit space on the sides of the washer and dryer."
+                  "section" : "Washer & Dryer"
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child from crawling behind the machines."
+                     }
+                  ]
+               }
+            ]
+         }
+         {
+            "name" : "Nursery/Bedroom",
+            "image" : "nursery",
+            "tasks" : [
+               {
+                  "text" : "Purchase a crib with fixed sides, narrow slats, and no corner posts. If using a glider, purchase one with a stop-lock mechanism."
+                  "section" : "Crib"
+                  "tips" : [
+                     {
+                        "text" : "Drop-sided cribs pose a threat to infants, many of whom have been injured or killed as a result of hardware malfunctions common to the crib's design."
+                     }
+                     {
+                        "text" : "Slats should be no further than 2 and 3/8th inches apart."
+                     }
+                     {
+                        "text" : "Clothing may become caught on posts, resulting in strangulation."
+                     }
+                     {
+                        "text" : "A glider with a stop-lock mechanism prevents the glider from moving when not in use."
+                     }
+                  ]
+               } 
+               {
+                  "text" : "Ensure the crib mattress is firm and well-fitting."
+                  "section" : "Crib"
+                  "tips" : [
+                     {
+                        "text" : "There should be no more than two fingers of space between the side of the mattress and the crib frame; any larger and your baby may become entrapped between the two, resulting in injury or suffocation."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Remove soft toys and bedding from crib. Leave only a thin mattress and fitted sheet."
+                  "section" : "Crib"
+                  "tips" : [
+                     {
+                        "text" : "Blankets, pillows, and bumpers of any kind pose a risk of suffocation and or entrapment and should never be used in a crib."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Once baby can sit up, remove hanging mobiles from crib."
+                  "section" : "Crib"
+               }
+               {
+                  "text" : "Move crib away from anything that could be used for climbing."
+                  "section" : "Crib"
+               }
+               {
+                  "text" : "Ensure crib is not next to a heater or an area with direct sunlight."
+                  "section" : "Crib"
+                  "tips" : [
+                     {
+                        "text" : "Both are risk factors for SIDS."
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}
