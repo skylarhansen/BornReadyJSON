@@ -9,7 +9,7 @@
             "tasks" : [
                {
                   "text" : "Secure laundry room door with door locks.",
-                  "section" : "Entryway",
+                  "section" : "Entryways",
                }
                {
                   "text" : "Secure drawers or cabinets that contain hazardous products with locks."
@@ -91,6 +91,232 @@
                         "text" : "Both are risk factors for SIDS."
                      }
                   ]
+               }
+               {
+                  "text" : "Install window guards."
+                  "section" : "Window"
+                  "tips" : [
+                     {
+                        "text" : "While window guards provide reassurance, they are not a substitute for parental supervision."
+                     }
+                  ]
+               }
+            ]
+         }
+         {
+            "name" : "Garage",
+            "image" : "garage",
+            "tasks" : [
+               {
+                  "text" : "Store tools out of reach and don't allow electrical cords to dangle.",
+                  "section" : "Storage",
+               }
+               {
+                  "text" : "Put toxic substances in locked storage."
+                  "section" : "Storage"
+               }
+               {
+                  "text" : "Store buckets upside down to prevent liquid accumulation."
+                  "section" : "Storage"
+               } 
+               {
+                  "text" : "Keep recycling and garbage containers closed and locked."
+                  "section" : "Storage"
+               }
+               {
+                  "text" : "Install lock on the door connecting the house to the garage."
+                  "section" : "Entryways"
+               }
+               {
+                  "text" : "Install lock on any entryways leading to the basement."
+                  "section" : "Entryways"
+               }
+               {
+                  "text" : "Make sure the garage door has a safety sensor."
+                  "section" : "Garage Door"
+               }
+            ]
+         }
+         {
+            "name" : "Bathroom",
+            "image" : "bathroom",
+            "tasks" : [
+               {
+                  "text" : "Secure cabinets with cabinet locks.",
+                  "section" : "Storage",
+                  "tips" : [
+                     {
+                        "text" : "Put safety guards on any cabinet or drawer that contains medicine or any other hazardous items."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Ensure medications are out of reach and secured with childproof tops."
+                  "section" : "Storage"
+               }
+               {
+                  "text" : "Secure toilet with toilet locks.",
+                  "section" : "Toilet",
+                  "tips" : [
+                     {
+                        "text" : "Put safety guards on toilets to make sure that your child cannot get in them."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Install a spout cover in the bathtub.",
+                  "section" : "Bathtub & Shower",
+                  "tips" : [
+                     {
+                        "text" : "Note: bathtub spouts are the third most common cause of stitches in babies."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Put non-slip mats in and beside the bathtub."
+                  "section" : "Bathtub & Shower"
+               }
+               {
+                  "text" : "Have a plumber install an anti-scald device for the faucets and shower head.",
+                  "section" : "Bathtub & Shower",
+                  "tips" : [
+                     {
+                        "text" : "Regulate the water temperature to help prevent burns."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Reduce water heater settings to 120 degrees Farenheit."
+                  "section" : "Bathtub & Shower"
+               }
+               {
+                  "text" : "Install a stable shower curtain rod."
+                  "section" : "Bathtub & Shower"
+               }
+            ]
+         }
+         {
+            "name" : "Kitchen",
+            "image" : "kitchen",
+            "tasks" : [
+               {
+                  "text" : "Install covers for stove and oven knobs.",
+                  "section" : "Stove & Oven",
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child from turning on the stove or oven accidentally."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Install an appliance latch for the oven door.",
+                  "section" : "Stove & Oven",
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child from opening a potentially hot oven."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Install stove guard to block access to burners.",
+                  "section" : "Stove & Oven",
+                  "tips" : [
+                     {
+                        "text" : "A barrier keeps your child's small hands away from burners."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Always keep pot handles turned toward wall while cooking.",
+                  "section" : "Stove & Oven",
+               }
+               {
+                  "text" : "Always keep hot food and drinks away from table edge.",
+                  "section" : "Stove & Oven",
+               }
+               {
+                  "text" : "When possible, cook using only back burners.",
+                  "section" : "Stove & Oven",
+               }
+               {
+                  "text" : "Install safety latches on refrigerator and freezer doors.",
+                  "section" : "Refrigerator",
+               }
+               {
+                  "text" : "Remove magnets from the refrigerator.",
+                  "section" : "Refrigerator",
+                  "tips" : [
+                     {
+                        "text" : "Magnets are a choking hazard."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Install a safety cover on the garbage disposal.",
+                  "section" : "Sink",
+               }
+               {
+                  "text" : "Do not use placemats or tablecloths.",
+                  "section" : "Storage",
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child from yanking loose cloth and having items fall on them."
+                     }
+                  ]
+               }
+               {
+                  "text" : "Attach safety latches and locks.",
+                  "section" : "Storage",
+                  "tips" : [
+                     {
+                        "text" : "Secure any drawers containing knives, scissors, or sharp utensils."
+                     }
+                     {
+                        "text" : "Keep kids out of any cabinets that contain household cleaners."
+                     }
+                  ]
+               }
+            ]
+         }
+         {
+            "name" : "Living Room",
+            "image" : "livingRoom",
+            "tasks" : [
+               {
+                  "text" : "Install foam bumpers on the fireplace hearth and mantles.",
+                  "section" : "Furniture",
+               }
+               {
+                  "text" : "Secure heavy furniture to walls."
+                  "section" : "Furniture"
+               }
+               {
+                  "text" : "Secure the television to the wall, or place the television on tall sturdy furniture."
+                  "section" : "Furniture"
+               } 
+               {
+                  "text" : "Remove floor lamps."
+                  "section" : "Furniture"
+               }
+               {
+                  "text" : "Block access to all floor heaters and radiators."
+                  "section" : "Furniture"
+               }
+               {
+                  "text" : "Install fireplace screen around fireplace."
+                  "section" : "Furniture"
+               }
+               {
+                  "text" : "Install bumpers to sharp corners on furniture."
+                  "section" : "Furniture"
+               }
+               {
+                  "text" : "Move all electric cords behind furniture or under rugs."
+                  "section" : "Storage"
+               }
+               {
+                  "text" : "Latch any cupboards, doorsz"
+                  "section" : "Storage"
                }
             ]
          }
