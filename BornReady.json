@@ -315,8 +315,145 @@
                   "section" : "Storage"
                },
                {
-                  "text" : "Latch any cupboards, doorsz",
+                  "text" : "Latch cupboards, doors, and drawers within baby's reach.",
                   "section" : "Storage"
+               },
+               {
+                  "text" : "Purchase baby-safe doorstops.",
+                  "section" : "Entryways"
+               },
+               {
+                  "text" : "Place baby gates at the top and bottom of every set of stairs.",
+                  "section" : "Entryways"
+               },
+               {
+                  "text" : "Install plexiglass on stair and balcony rail spaces greater than four inches.",
+                  "section" : "Entryways"
+               }
+            ]
+         },
+         {
+            "name" : "Outdoors",
+            "image" : "outdoors",
+            "tasks" : [
+               {
+                  "text" : "Ensure backyard gates latch securely.",
+                  "section" : "Yard"
+               },
+               {
+                  "text" : "Make a kid-free zone.",
+                  "section" : "Yard",
+                  "tips" : [
+                     {
+                        "text" : "Prevent your child from entering the grilling area, as well as any structure or shed that might contain tools, lawn mowers, etc."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Ensure ground cover is soft (grass or rubber), and avoid pea gravel at all costs.",
+                  "section" : "Yard",
+                  "tips" : [
+                     {
+                        "text" : "Pea gravel is a choking hazard."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Avoid dangerous plants.",
+                  "section" : "Yard",
+                  "tips" : [
+                     {
+                        "text" : "This includes plants that are toxic (mushrooms), prickly (rose, bougainvillea), and bear fruits (berries)."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Ensure fertilizers and insecticides are safe during and after application.",
+                  "section" : "Yard"
+               },
+               {
+                  "text" : "Store garden hoses out of the sun.",
+                  "section" : "Storage",
+                  "tips" : [
+                     {
+                        "text" : "Water remaining in the hose can scald the child."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Empty wading pools and store upright after each use.",
+                  "section" : "Pool"
+               },
+               {
+                  "text" : "Install a locked fence around permanent pool structures.",
+                  "section" : "Pool",
+                  "tips" : [
+                     {
+                        "text" : "Ensure that the gate to the pool has a lock that prevents your child from entering alone but can be opened quickly by an adult in case of an emergency."
+                     },
+                     {
+                        "text" : "Don't let water accumulate on the top of the pool cover - that's a drowning hazard!"
+                     }
+                  ]
+               },
+               {
+                  "text" : "Install tall flags on riding toys and ensure riding area is safe.",
+                  "section" : "Toys"
+               }
+            ]
+         },
+         {
+            "name" : "Entire Home",
+            "image" : "entireHome",
+            "tasks" : [
+               {
+                  "text" : "Cut window-blind cords.",
+                  "section" : "Windows",
+                  "tips" : [
+                     {
+                        "text" : "Alternatively, use safety tassels and inner cord stops so that your child cannot get entagled."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Place covers over unused outlets.",
+                  "section" : "Outlets",
+                  "tips" : [
+                     {
+                        "text" : "Sliding covers are the best as the push-in ones can be pulled out and possibly choked on."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Install hardware-mounted safety gates in front of any stairs in the house.",
+                  "section" : "Stairways"
+               },
+               {
+                  "text" : "Install corner and edge bumpers.",
+                  "section" : "Furniture",
+                  "tips" : [
+                     {
+                        "text" : "These will help prevent injuries from falls against sharp edges."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Use doorstops and door holders.",
+                  "section" : "Entryways",
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child's small fingers from being crushed or pinched in doors and door hinges."
+                     }
+                  ]
+               },
+               {
+                  "text" : "Ensure all cords are off the floor.",
+                  "section" : "Storage",
+                  "tips" : [
+                     {
+                        "text" : "Your child can get tangled in any cords."
+                     }
+                  ]
                }
             ]
          }
