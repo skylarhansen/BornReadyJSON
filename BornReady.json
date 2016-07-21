@@ -352,63 +352,67 @@
             "image" : "livingRoom",
             "tasks" : [
                {
-                  "text" : "Install foam bumpers on the fireplace hearth and mantles.",
+                  "text" : "Install foam bumpers on sharp corners of furniture.",
                   "section" : "Furniture",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=9f25a04633af4c2a7d5431b18d57fffe&camp=1789&creative=9325&index=baby-products&keywords=furniture bumper",
                   "tips" : []
                },
                {
                   "text" : "Secure heavy furniture to walls.",
                   "section" : "Furniture",
-                  "tips" : []
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=25bb19b65cd91913030056dd41d52923&camp=1789&creative=9325&index=baby-products&keywords=furniture straps",
+                  "tips" : [] 
                },
                {
                   "text" : "Secure the television to the wall, or place the television on tall sturdy furniture.",
                   "section" : "Furniture",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=25bb19b65cd91913030056dd41d52923&camp=1789&creative=9325&index=baby-products&keywords=furniture straps",
                   "tips" : []
                },
                {
                   "text" : "Remove floor lamps.",
                   "section" : "Furniture",
+                  "link" : "",
                   "tips" : []
                },
                {
                   "text" : "Block access to all floor heaters and radiators.",
                   "section" : "Furniture",
+                  "link" : "",
                   "tips" : []
                },
                {
-                  "text" : "Install fireplace screen around fireplace.",
+                  "text" : "Install a screen around the fireplace.",
                   "section" : "Furniture",
-                  "tips" : []
-               },
-               {
-                  "text" : "Install bumpers to sharp corners on furniture.",
-                  "section" : "Furniture",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=1b1585b6aa0f3d81bf5174f8e88a8bc4&camp=1789&creative=9325&index=baby-products&keywords=fireplace screen",
                   "tips" : []
                },
                {
                   "text" : "Move all electric cords behind furniture or under rugs.",
                   "section" : "Storage",
+                  "link" : "",
                   "tips" : []
                },
                {
-                  "text" : "Latch cupboards, doors, and drawers within baby's reach.",
+                  "text" : "Secure drawers or cabinets with safety latches.",
                   "section" : "Storage",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=9b60978e3d58aa2e55a9859d3c7259e0&camp=1789&creative=9325&index=baby-products&keywords=cabinet lock",
                   "tips" : []
                },
                {
-                  "text" : "Purchase baby-safe doorstops.",
+                  "text" : "Use baby-safe doorstops and door holders.",
                   "section" : "Entryways",
-                  "tips" : []
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=152eadf555a6436807d400759c342cbe&camp=1789&creative=9325&index=baby-products&keywords=doorstop",
+                  "tips" : [
+                     {
+                        "text" : "This prevents your child's small fingers from being crushed or pinched in doors and door hinges."
+                     }
+                  ]
                },
                {
-                  "text" : "Place baby gates at the top and bottom of every set of stairs.",
+                  "text" : "Install plexiglass on stair and balcony rail spaces greater than 4 inches.",
                   "section" : "Entryways",
-                  "tips" : []
-               },
-               {
-                  "text" : "Install plexiglass on stair and balcony rail spaces greater than four inches.",
-                  "section" : "Entryways",
+                  "link" : "",
                   "tips" : []
                }
             ]
@@ -420,11 +424,13 @@
                {
                   "text" : "Ensure backyard gates latch securely.",
                   "section" : "Yard",
+                  "link" : "",
                   "tips" : []
                },
                {
                   "text" : "Make a kid-free zone.",
                   "section" : "Yard",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "Prevent your child from entering the grilling area, as well as any structure or shed that might contain tools, lawn mowers, etc."
@@ -434,6 +440,7 @@
                {
                   "text" : "Ensure ground cover is soft (grass or rubber), and avoid pea gravel at all costs.",
                   "section" : "Yard",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "Pea gravel is a choking hazard."
@@ -443,6 +450,7 @@
                {
                   "text" : "Avoid dangerous plants.",
                   "section" : "Yard",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "This includes plants that are toxic (mushrooms), prickly (rose, bougainvillea), and bear fruits (berries)."
@@ -452,25 +460,29 @@
                {
                   "text" : "Ensure fertilizers and insecticides are safe during and after application.",
                   "section" : "Yard",
+                  "link" : "",
                   "tips" : []
                },
                {
                   "text" : "Store garden hoses out of the sun.",
                   "section" : "Storage",
+                  "link" : "",
                   "tips" : [
                      {
-                        "text" : "Water remaining in the hose can scald the child."
+                        "text" : "Water remaining in the hose can scald your child."
                      }
                   ]
                },
                {
                   "text" : "Empty wading pools and store upright after each use.",
                   "section" : "Pool",
+                  "link" : "",
                   "tips" : []
                },
                {
                   "text" : "Install a locked fence around permanent pool structures.",
                   "section" : "Pool",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "Ensure that the gate to the pool has a lock that prevents your child from entering alone but can be opened quickly by an adult in case of an emergency."
@@ -483,6 +495,7 @@
                {
                   "text" : "Install tall flags on riding toys and ensure riding area is safe.",
                   "section" : "Toys",
+                  "link" : "",
                   "tips" : []
                }
             ]
@@ -494,6 +507,7 @@
                {
                   "text" : "Cut window-blind cords.",
                   "section" : "Windows",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "Alternatively, use safety tassels and inner cord stops so that your child cannot get entagled."
@@ -501,8 +515,9 @@
                   ]
                },
                {
-                  "text" : "Place covers over unused outlets.",
+                  "text" : "Place covers over unused electrical outlets.",
                   "section" : "Outlets",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=85eecc123d2cdac39faa6022a86a48c0&camp=1789&creative=9325&index=baby-products&keywords=outlet cover",
                   "tips" : [
                      {
                         "text" : "Sliding covers are the best as the push-in ones can be pulled out and possibly choked on."
@@ -510,13 +525,19 @@
                   ]
                },
                {
-                  "text" : "Install hardware-mounted safety gates in front of any stairs in the house.",
+                  "text" : "Place gates at the top and bottom of every set of stairs.",
                   "section" : "Stairways",
-                  "tips" : []
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=d036855fad59421b21970a52ebaa1fcf&camp=1789&creative=9325&index=baby-products&keywords=stair gate",
+                  "tips" : [
+                     {
+                        "text" : "Install hardware-mounted safety gates in front of any stairs in the house."
+                     }
+                  ]
                },
                {
-                  "text" : "Install corner and edge bumpers.",
+                  "text" : "Install foam bumpers on sharp corners of furniture.",
                   "section" : "Furniture",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=9f25a04633af4c2a7d5431b18d57fffe&camp=1789&creative=9325&index=baby-products&keywords=furniture bumper",
                   "tips" : [
                      {
                         "text" : "These will help prevent injuries from falls against sharp edges."
@@ -524,8 +545,9 @@
                   ]
                },
                {
-                  "text" : "Use doorstops and door holders.",
+                  "text" : "Use baby-safe doorstops and door holders.",
                   "section" : "Entryways",
+                  "link" : "https://www.amazon.com/gp/search?ie=UTF8&tag=borrea05-20&linkCode=ur2&linkId=152eadf555a6436807d400759c342cbe&camp=1789&creative=9325&index=baby-products&keywords=doorstop",
                   "tips" : [
                      {
                         "text" : "This prevents your child's small fingers from being crushed or pinched in doors and door hinges."
@@ -535,6 +557,7 @@
                {
                   "text" : "Ensure all cords are off the floor.",
                   "section" : "Storage",
+                  "link" : "",
                   "tips" : [
                      {
                         "text" : "Your child can get tangled in any cords."
